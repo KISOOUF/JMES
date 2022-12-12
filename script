@@ -1,0 +1,6 @@
+if game.PlaceId == 6284583030 then -- Place ID
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jmesfo0/RobloxScripts/main/psx-jmes-normal.lua"))() -- GUi shit
+end
+if game.PlaceId == 10321372166 then -- Place ID
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jmesfo0/RobloxScripts/main/psx-jmes-hardcore.lua"))()  -- GUi shit
+end
