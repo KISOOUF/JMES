@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jmesfo0/RobloxScripts/main/psx-jmes.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Setup/main/script"))()
+-- Adopt Me! Pet Simulator X and Pet Simulator 2 Support.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/script"))()
