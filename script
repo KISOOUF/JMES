@@ -1,2 +1,2 @@
 -- Adopt Me! Pet Simulator X and Pet Simulator 2 Support.
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jmesfo0/RobloxScripts/main/psx-jmes.lua"))()
